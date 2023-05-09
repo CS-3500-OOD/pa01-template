@@ -1,10 +1,10 @@
-package cs3500.template.code;
+package cs3500.pa01;
 
 
 /**
  * This is the main driver of this project.
  */
-public class Main {
+public class Driver {
   /**
    * Project entry point
    *
