@@ -1,7 +1,6 @@
-# 3500 Template Repository
+# 3500 PA 01 Project Repo
 
-This goal of this project is to be the 
-bassis of the PA template repos for summer 2023. 
+[PA Write Up](https://markefontenot.notion.site/PA-01-Summarize-This-c8275591b4eb43df9f56dbae881f2423) 
 
 It include several additional tools:
 1. Gradle Build Automation
